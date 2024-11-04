@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\bin\Debug\MaximumAndMinimum.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\bin\Debug\MaximumAndMinimum.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\bin\Debug\MaximumAndMinimum.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\obj\Debug\MaximumAndMinimum.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\obj\Debug\MaximumAndMinimum.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\obj\Debug\MaximumAndMinimum.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MaximumAndMinimum\obj\Debug\MaximumAndMinimum.pdb

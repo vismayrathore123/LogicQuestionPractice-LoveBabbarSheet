@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\bin\Debug\Question-1.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\bin\Debug\Question-1.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\bin\Debug\Question-1.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\obj\Debug\ReverseTheArray.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\obj\Debug\ReverseTheArray.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\obj\Debug\Question-1.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Question-1\obj\Debug\Question-1.pdb
