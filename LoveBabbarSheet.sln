@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheArray", "Question
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumAndMinimum", "MaximumAndMinimum\MaximumAndMinimum.csproj", "{3F7A910E-4000-4A9A-BB7F-94148291191D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{CA162D84-13B0-405D-9DB0-C109594D6923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String", "String", "{A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth smallest", "Kth smallest\Kth smallest.csproj", "{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_0s&1s&2s", "Sort_0s&1s&2s\Sort_0s&1s&2s.csproj", "{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveAllNegativeElementToOneSideOfArray", "MoveAllNegativeElementToOneSideOfArray\MoveAllNegativeElementToOneSideOfArray.csproj", "{A5313A0C-C83F-4C7C-8514-34315DBA5991}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +31,28 @@ Global
 		{3F7A910E-4000-4A9A-BB7F-94148291191D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F7A910E-4000-4A9A-BB7F-94148291191D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F7A910E-4000-4A9A-BB7F-94148291191D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5313A0C-C83F-4C7C-8514-34315DBA5991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5313A0C-C83F-4C7C-8514-34315DBA5991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5313A0C-C83F-4C7C-8514-34315DBA5991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5313A0C-C83F-4C7C-8514-34315DBA5991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{10D67A3F-E80E-4818-8198-E777A69C7D2C} = {CA162D84-13B0-405D-9DB0-C109594D6923}
+		{3F7A910E-4000-4A9A-BB7F-94148291191D} = {CA162D84-13B0-405D-9DB0-C109594D6923}
+		{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850} = {CA162D84-13B0-405D-9DB0-C109594D6923}
+		{80E1BD00-2CDF-47F9-B7E5-C0714CF59486} = {CA162D84-13B0-405D-9DB0-C109594D6923}
+		{A5313A0C-C83F-4C7C-8514-34315DBA5991} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

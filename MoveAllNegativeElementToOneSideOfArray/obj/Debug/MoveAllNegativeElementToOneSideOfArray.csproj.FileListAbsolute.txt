@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\bin\Debug\MoveAllNegativeElementToOneSideOfArray.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\bin\Debug\MoveAllNegativeElementToOneSideOfArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\bin\Debug\MoveAllNegativeElementToOneSideOfArray.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\obj\Debug\MoveAllNegativeElementToOneSideOfArray.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\obj\Debug\MoveAllNegativeElementToOneSideOfArray.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\obj\Debug\MoveAllNegativeElementToOneSideOfArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MoveAllNegativeElementToOneSideOfArray\obj\Debug\MoveAllNegativeElementToOneSideOfArray.pdb

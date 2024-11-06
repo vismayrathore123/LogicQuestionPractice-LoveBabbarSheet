@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\bin\Debug\Sort_0s&1s&2s.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\bin\Debug\Sort_0s&1s&2s.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\bin\Debug\Sort_0s&1s&2s.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\obj\Debug\Sort_0s&1s&2s.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\obj\Debug\Sort_0s&1s&2s.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\obj\Debug\Sort_0s&1s&2s.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Sort_0s&1s&2s\obj\Debug\Sort_0s&1s&2s.pdb

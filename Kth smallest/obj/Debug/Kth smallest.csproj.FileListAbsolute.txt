@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\bin\Debug\Kth smallest.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\bin\Debug\Kth smallest.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\bin\Debug\Kth smallest.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\obj\Debug\Kth smallest.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\obj\Debug\Kth smallest.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\obj\Debug\Kth smallest.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\Kth smallest\obj\Debug\Kth smallest.pdb
