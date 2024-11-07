@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\bin\Debug\UnionOfTwoArraysWithDuplicateElement.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\bin\Debug\UnionOfTwoArraysWithDuplicateElement.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\bin\Debug\UnionOfTwoArraysWithDuplicateElement.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\obj\Debug\UnionOfTwoArraysWithDuplicateElement.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\obj\Debug\UnionOfTwoArraysWithDuplicateElement.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\obj\Debug\UnionOfTwoArraysWithDuplicateElement.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\UnionOfTwoArraysWithDuplicateElement\obj\Debug\UnionOfTwoArraysWithDuplicateElement.pdb

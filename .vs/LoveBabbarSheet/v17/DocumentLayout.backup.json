@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58A9FA6B-2D7A-4E2F-A92F-1A8812DB78CE}|UnionOfTwoArraysWithDuplicateElement\\UnionOfTwoArraysWithDuplicateElement.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\unionoftwoarrayswithduplicateelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A9FA6B-2D7A-4E2F-A92F-1A8812DB78CE}|UnionOfTwoArraysWithDuplicateElement\\UnionOfTwoArraysWithDuplicateElement.csproj|solutionrelative:unionoftwoarrayswithduplicateelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5313A0C-C83F-4C7C-8514-34315DBA5991}|MoveAllNegativeElementToOneSideOfArray\\MoveAllNegativeElementToOneSideOfArray.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\moveallnegativeelementtoonesideofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5313A0C-C83F-4C7C-8514-34315DBA5991}|MoveAllNegativeElementToOneSideOfArray\\MoveAllNegativeElementToOneSideOfArray.csproj|solutionrelative:moveallnegativeelementtoonesideofarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}|Sort_0s\u00261s\u00262s\\Sort_0s\u00261s\u00262s.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\sort_0s\u00261s\u00262s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}|Sort_0s\u00261s\u00262s\\Sort_0s\u00261s\u00262s.csproj|C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\sort_0s\u00261s\u00262s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80E1BD00-2CDF-47F9-B7E5-C0714CF59486}|Sort_0s\u00261s\u00262s\\Sort_0s\u00261s\u00262s.csproj|solutionrelative:sort_0s\u00261s\u00262s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}|Kth smallest\\Kth smallest.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\kth smallest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}|Kth smallest\\Kth smallest.csproj|C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\kth smallest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61CF34A7-8571-4A9D-B4CF-FC8E87F2C850}|Kth smallest\\Kth smallest.csproj|solutionrelative:kth smallest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F7A910E-4000-4A9A-BB7F-94148291191D}|MaximumAndMinimum\\MaximumAndMinimum.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\maximumandminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F7A910E-4000-4A9A-BB7F-94148291191D}|MaximumAndMinimum\\MaximumAndMinimum.csproj|C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\maximumandminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F7A910E-4000-4A9A-BB7F-94148291191D}|MaximumAndMinimum\\MaximumAndMinimum.csproj|solutionrelative:maximumandminimum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,18 +44,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\UnionOfTwoArraysWithDuplicateElement\\Program.cs",
+              "RelativeDocumentMoniker": "UnionOfTwoArraysWithDuplicateElement\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\UnionOfTwoArraysWithDuplicateElement\\Program.cs*",
+              "RelativeToolTip": "UnionOfTwoArraysWithDuplicateElement\\Program.cs*",
+              "ViewState": "AgIAAAkAAABAMzMzMzMpwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T11:47:01.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "RelativeDocumentMoniker": "MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "ToolTip": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "RelativeToolTip": "MoveAllNegativeElementToOneSideOfArray\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T07:33:43.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Sort_0s\u00261s\u00262s\\Program.cs",
               "RelativeDocumentMoniker": "Sort_0s\u00261s\u00262s\\Program.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "Sort_0s\u00261s\u00262s\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:12:30.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:12:30.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Kth smallest\\Program.cs",
               "RelativeDocumentMoniker": "Kth smallest\\Program.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "Kth smallest\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:01:04.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:01:04.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\MaximumAndMinimum\\Program.cs",
               "RelativeDocumentMoniker": "MaximumAndMinimum\\Program.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "MaximumAndMinimum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:23:55.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T09:23:55.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Question-1\\Program.cs",
               "RelativeDocumentMoniker": "Question-1\\Program.cs",
