@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.pdb

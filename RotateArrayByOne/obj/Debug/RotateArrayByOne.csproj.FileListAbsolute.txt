@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\bin\Debug\RotateArrayByOne.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\bin\Debug\RotateArrayByOne.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\bin\Debug\RotateArrayByOne.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\obj\Debug\RotateArrayByOne.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\obj\Debug\RotateArrayByOne.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\obj\Debug\RotateArrayByOne.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\RotateArrayByOne\obj\Debug\RotateArrayByOne.pdb
