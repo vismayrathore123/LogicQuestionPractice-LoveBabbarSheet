@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\bin\Debug\CheckIfStringIsPalindromeOrNot.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\bin\Debug\CheckIfStringIsPalindromeOrNot.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\bin\Debug\CheckIfStringIsPalindromeOrNot.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\obj\Debug\CheckIfStringIsPalindromeOrNot.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\obj\Debug\CheckIfStringIsPalindromeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\obj\Debug\CheckIfStringIsPalindromeOrNot.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfStringIsPalindromeOrNot\obj\Debug\CheckIfStringIsPalindromeOrNot.pdb

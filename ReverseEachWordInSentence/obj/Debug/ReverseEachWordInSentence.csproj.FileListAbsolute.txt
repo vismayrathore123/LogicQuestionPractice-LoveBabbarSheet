@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\obj\Debug\ReverseEachWordInSentence.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\obj\Debug\ReverseEachWordInSentence.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\bin\Debug\ReverseEachWordInSentence.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\bin\Debug\ReverseEachWordInSentence.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\bin\Debug\ReverseEachWordInSentence.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\obj\Debug\ReverseEachWordInSentence.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseEachWordInSentence\obj\Debug\ReverseEachWordInSentence.pdb
