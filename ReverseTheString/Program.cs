@@ -19,7 +19,7 @@ namespace ReverseTheString
 
         static void Main(string[] args)
         {
-            string str = "Evision";
+            string str = "Evision Software Solution";
             string result = Program.ReverseTheString(str); 
             Console.WriteLine("Reversed string is: " + result);
             Console.ReadLine();
