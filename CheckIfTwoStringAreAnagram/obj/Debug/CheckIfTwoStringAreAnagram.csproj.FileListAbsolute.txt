@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\bin\Debug\CheckIfTwoStringAreAnagram.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\bin\Debug\CheckIfTwoStringAreAnagram.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\bin\Debug\CheckIfTwoStringAreAnagram.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\obj\Debug\CheckIfTwoStringAreAnagram.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\obj\Debug\CheckIfTwoStringAreAnagram.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\obj\Debug\CheckIfTwoStringAreAnagram.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfTwoStringAreAnagram\obj\Debug\CheckIfTwoStringAreAnagram.pdb
