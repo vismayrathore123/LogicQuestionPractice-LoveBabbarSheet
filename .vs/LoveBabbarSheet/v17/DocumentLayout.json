@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E401D19-0038-41C3-A95E-2C436B4F7FF8}|ImplementAnArrayUsingLinkedList\\ImplementAnArrayUsingLinkedList.csproj|c:\\users\\vansh\\desktop\\vismay\\logicquestionpractice-lovebabbarsheet\\implementanarrayusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E401D19-0038-41C3-A95E-2C436B4F7FF8}|ImplementAnArrayUsingLinkedList\\ImplementAnArrayUsingLinkedList.csproj|solutionrelative:implementanarrayusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8038DFA9-4311-4F50-A449-BF4BB53C9CD7}|ImplementingStackUsingLinkedList\\ImplementingStackUsingLinkedList.csproj|c:\\users\\vansh\\desktop\\vismay\\logicquestionpractice-lovebabbarsheet\\implementingstackusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8038DFA9-4311-4F50-A449-BF4BB53C9CD7}|ImplementingStackUsingLinkedList\\ImplementingStackUsingLinkedList.csproj|solutionrelative:implementingstackusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E86D95B-8A84-4386-B0C2-8F2BEB163882}|CheckIfTwoStringAreAnagram\\CheckIfTwoStringAreAnagram.csproj|c:\\users\\vansh\\desktop\\vismay\\logicquestionpractice-lovebabbarsheet\\checkiftwostringareanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6E401D19-0038-41C3-A95E-2C436B4F7FF8}|ImplementAnArrayUsingLinkedList\\ImplementStack.csproj|c:\\users\\vansh\\desktop\\vismay\\logicquestionpractice-lovebabbarsheet\\implementanarrayusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E401D19-0038-41C3-A95E-2C436B4F7FF8}|ImplementAnArrayUsingLinkedList\\ImplementStack.csproj|solutionrelative:implementanarrayusinglinkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E86D95B-8A84-4386-B0C2-8F2BEB163882}|CheckIfTwoStringAreAnagram\\CheckIfTwoStringAreAnagram.csproj|C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\checkiftwostringareanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E86D95B-8A84-4386-B0C2-8F2BEB163882}|CheckIfTwoStringAreAnagram\\CheckIfTwoStringAreAnagram.csproj|solutionrelative:checkiftwostringareanagram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -77,15 +81,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ImplementingStackUsingLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "ImplementingStackUsingLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ImplementingStackUsingLinkedList\\Program.cs",
+              "RelativeToolTip": "ImplementingStackUsingLinkedList\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:22:30.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ImplementAnArrayUsingLinkedList\\Program.cs",
               "RelativeDocumentMoniker": "ImplementAnArrayUsingLinkedList\\Program.cs",
@@ -98,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIfTwoStringAreAnagram\\Program.cs",
               "RelativeDocumentMoniker": "CheckIfTwoStringAreAnagram\\Program.cs",
@@ -106,12 +119,11 @@
               "RelativeToolTip": "CheckIfTwoStringAreAnagram\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAcwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T08:05:26.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T08:05:26.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\FindLongestPalindromicSubstring\\Program.cs",
               "RelativeDocumentMoniker": "FindLongestPalindromicSubstring\\Program.cs",
@@ -119,12 +131,11 @@
               "RelativeToolTip": "FindLongestPalindromicSubstring\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:36:26.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T07:36:26.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\RemoveAllDuplicateAndReverse\\Program.cs",
               "RelativeDocumentMoniker": "RemoveAllDuplicateAndReverse\\Program.cs",
@@ -132,12 +143,11 @@
               "RelativeToolTip": "RemoveAllDuplicateAndReverse\\Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAUwAoAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T07:23:32.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T07:23:32.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseTheOrderOfWordsInSentence\\Program.cs",
               "RelativeDocumentMoniker": "ReverseTheOrderOfWordsInSentence\\Program.cs",
@@ -145,60 +155,7 @@
               "RelativeToolTip": "ReverseTheOrderOfWordsInSentence\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:55:30.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseTheString\\Program.cs",
-              "RelativeDocumentMoniker": "ReverseTheString\\Program.cs",
-              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseTheString\\Program.cs",
-              "RelativeToolTip": "ReverseTheString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:53:59.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseOnlyAPartOfString\\Program.cs",
-              "RelativeDocumentMoniker": "ReverseOnlyAPartOfString\\Program.cs",
-              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseOnlyAPartOfString\\Program.cs",
-              "RelativeToolTip": "ReverseOnlyAPartOfString\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:44:34.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIfStringIsPalindromeOrNot\\Program.cs",
-              "RelativeDocumentMoniker": "CheckIfStringIsPalindromeOrNot\\Program.cs",
-              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIfStringIsPalindromeOrNot\\Program.cs",
-              "RelativeToolTip": "CheckIfStringIsPalindromeOrNot\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T18:17:35.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseEachWordInSentence\\Program.cs",
-              "RelativeDocumentMoniker": "ReverseEachWordInSentence\\Program.cs",
-              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseEachWordInSentence\\Program.cs",
-              "RelativeToolTip": "ReverseEachWordInSentence\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T17:56:13.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T06:55:30.43Z"
             },
             {
               "$type": "Document",
@@ -210,11 +167,59 @@
               "RelativeToolTip": "ReverseTheString\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:48:01.047Z"
+              "WhenOpened": "2024-11-11T06:53:59.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseOnlyAPartOfString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseOnlyAPartOfString\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseOnlyAPartOfString\\Program.cs",
+              "RelativeToolTip": "ReverseOnlyAPartOfString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:44:34.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIfStringIsPalindromeOrNot\\Program.cs",
+              "RelativeDocumentMoniker": "CheckIfStringIsPalindromeOrNot\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIfStringIsPalindromeOrNot\\Program.cs",
+              "RelativeToolTip": "CheckIfStringIsPalindromeOrNot\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T18:17:35.961Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseEachWordInSentence\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseEachWordInSentence\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseEachWordInSentence\\Program.cs",
+              "RelativeToolTip": "ReverseEachWordInSentence\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:56:13.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseTheString\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseTheString\\Program.cs",
+              "ToolTip": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\ReverseTheString\\Program.cs",
+              "RelativeToolTip": "ReverseTheString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:48:01.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\RotateArrayByOne\\Program.cs",
               "RelativeDocumentMoniker": "RotateArrayByOne\\Program.cs",
@@ -222,12 +227,11 @@
               "RelativeToolTip": "RotateArrayByOne\\Program.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAcwBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T12:18:04.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T12:18:04.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\UnionOfTwoArraysWithDuplicateElement\\Program.cs",
               "RelativeDocumentMoniker": "UnionOfTwoArraysWithDuplicateElement\\Program.cs",
@@ -235,12 +239,11 @@
               "RelativeToolTip": "UnionOfTwoArraysWithDuplicateElement\\Program.cs",
               "ViewState": "AgIAAAoAAABAMzMzMzMhwBAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T11:47:01.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T11:47:01.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "RelativeDocumentMoniker": "MoveAllNegativeElementToOneSideOfArray\\Program.cs",
@@ -248,12 +251,11 @@
               "RelativeToolTip": "MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:33:43.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:33:43.585Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\Sort_0s\u00261s\u00262s\\Program.cs",
               "RelativeDocumentMoniker": "Sort_0s\u00261s\u00262s\\Program.cs",
@@ -261,12 +263,11 @@
               "RelativeToolTip": "Sort_0s\u00261s\u00262s\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:12:30.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:12:30.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\Kth smallest\\Program.cs",
               "RelativeDocumentMoniker": "Kth smallest\\Program.cs",
@@ -274,12 +275,11 @@
               "RelativeToolTip": "Kth smallest\\Program.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T07:01:04.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T07:01:04.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\MaximumAndMinimum\\Program.cs",
               "RelativeDocumentMoniker": "MaximumAndMinimum\\Program.cs",
@@ -287,12 +287,11 @@
               "RelativeToolTip": "MaximumAndMinimum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T09:23:55.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T09:23:55.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Question-1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\system solution\\source\\repos\\LoveBabbarSheet\\Question-1\\Program.cs",
