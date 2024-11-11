@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\bin\Debug\CheckIfAgivenStackIsempty.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\bin\Debug\CheckIfAgivenStackIsempty.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\bin\Debug\CheckIfAgivenStackIsempty.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\obj\Debug\CheckIfAgivenStackIsempty.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\obj\Debug\CheckIfAgivenStackIsempty.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\obj\Debug\CheckIfAgivenStackIsempty.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIfAgivenStackIsempty\obj\Debug\CheckIfAgivenStackIsempty.pdb
