@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfStringIsPalindromeOr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseOnlyAPartOfString", "ReverseOnlyAPartOfString\ReverseOnlyAPartOfString.csproj", "{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheOrderOfWordsInSentence", "ReverseTheOrderOfWordsInSentence\ReverseTheOrderOfWordsInSentence.csproj", "{85EDD581-874E-4F46-A5C1-0C88EE281D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -79,6 +81,10 @@ Global
 		{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85EDD581-874E-4F46-A5C1-0C88EE281D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85EDD581-874E-4F46-A5C1-0C88EE281D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85EDD581-874E-4F46-A5C1-0C88EE281D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85EDD581-874E-4F46-A5C1-0C88EE281D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{5731600F-F7B6-4FB7-9017-55A3D6B9BFF9} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 		{6CF6FC18-ECB3-4332-BB87-170F602A815B} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 		{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
+		{85EDD581-874E-4F46-A5C1-0C88EE281D0F} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}
