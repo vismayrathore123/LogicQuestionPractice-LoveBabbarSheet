@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\bin\Debug\ReverseTheOrderOfWordsInSentence.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\bin\Debug\ReverseTheOrderOfWordsInSentence.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\bin\Debug\ReverseTheOrderOfWordsInSentence.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\obj\Debug\ReverseTheOrderOfWordsInSentence.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\obj\Debug\ReverseTheOrderOfWordsInSentence.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\obj\Debug\ReverseTheOrderOfWordsInSentence.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheOrderOfWordsInSentence\obj\Debug\ReverseTheOrderOfWordsInSentence.pdb

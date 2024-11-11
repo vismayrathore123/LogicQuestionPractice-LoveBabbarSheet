@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\bin\Debug\ReverseTheString.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheWholeString.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheWholeString.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\ReverseTheString\obj\Debug\ReverseTheString.pdb
