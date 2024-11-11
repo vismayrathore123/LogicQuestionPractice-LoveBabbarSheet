@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\bin\Debug\FindLongestPalindromicSubstring.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\bin\Debug\FindLongestPalindromicSubstring.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\bin\Debug\FindLongestPalindromicSubstring.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\obj\Debug\FindLongestPalindromicSubstring.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\obj\Debug\FindLongestPalindromicSubstring.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\obj\Debug\FindLongestPalindromicSubstring.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\FindLongestPalindromicSubstring\obj\Debug\FindLongestPalindromicSubstring.pdb

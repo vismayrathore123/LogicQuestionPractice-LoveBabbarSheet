@@ -33,6 +33,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseTheOrderOfWordsInSen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllDuplicateAndReverse", "RemoveAllDuplicateAndReverse\RemoveAllDuplicateAndReverse.csproj", "{A113942A-0B9A-44EB-98CB-35D286C03C9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindLongestPalindromicSubstring", "FindLongestPalindromicSubstring\FindLongestPalindromicSubstring.csproj", "{FB58D2C9-35DD-4ED1-B513-3E5F15511697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfTwoStringAreAnagram", "CheckIfTwoStringAreAnagram\CheckIfTwoStringAreAnagram.csproj", "{0E86D95B-8A84-4386-B0C2-8F2BEB163882}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stack", "stack", "{A483456E-5AB9-4935-A7E4-61261A7A5DAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementStack", "ImplementAnArrayUsingLinkedList\ImplementStack.csproj", "{6E401D19-0038-41C3-A95E-2C436B4F7FF8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +99,18 @@ Global
 		{A113942A-0B9A-44EB-98CB-35D286C03C9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A113942A-0B9A-44EB-98CB-35D286C03C9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A113942A-0B9A-44EB-98CB-35D286C03C9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB58D2C9-35DD-4ED1-B513-3E5F15511697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB58D2C9-35DD-4ED1-B513-3E5F15511697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB58D2C9-35DD-4ED1-B513-3E5F15511697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB58D2C9-35DD-4ED1-B513-3E5F15511697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E86D95B-8A84-4386-B0C2-8F2BEB163882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E86D95B-8A84-4386-B0C2-8F2BEB163882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E86D95B-8A84-4386-B0C2-8F2BEB163882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E86D95B-8A84-4386-B0C2-8F2BEB163882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E401D19-0038-41C3-A95E-2C436B4F7FF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E401D19-0038-41C3-A95E-2C436B4F7FF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E401D19-0038-41C3-A95E-2C436B4F7FF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E401D19-0038-41C3-A95E-2C436B4F7FF8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -109,6 +129,8 @@ Global
 		{EF7D3F04-A42E-4E5B-90B4-CC0B58CDE583} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 		{85EDD581-874E-4F46-A5C1-0C88EE281D0F} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 		{A113942A-0B9A-44EB-98CB-35D286C03C9F} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
+		{FB58D2C9-35DD-4ED1-B513-3E5F15511697} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
+		{6E401D19-0038-41C3-A95E-2C436B4F7FF8} = {A483456E-5AB9-4935-A7E4-61261A7A5DAC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}
