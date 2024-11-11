@@ -1,0 +1,7 @@
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\bin\Debug\CheckIdTheStackIsFull.exe.config
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\bin\Debug\CheckIdTheStackIsFull.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\bin\Debug\CheckIdTheStackIsFull.pdb
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\obj\Debug\CheckIfTheStackIsFull.csproj.AssemblyReference.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\obj\Debug\CheckIfTheStackIsFull.csproj.CoreCompileInputs.cache
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\obj\Debug\CheckIdTheStackIsFull.exe
+C:\Users\vansh\Desktop\vismay\LogicQuestionPractice-LoveBabbarSheet\CheckIdTheStackIsFull\obj\Debug\CheckIdTheStackIsFull.pdb
