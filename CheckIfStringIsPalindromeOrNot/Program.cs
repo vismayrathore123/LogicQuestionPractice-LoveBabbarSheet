@@ -7,7 +7,7 @@ namespace CheckIfStringIsPalindromeOrNot
         static string ReverseString(string str)
         {
             string reversedStr = "";
-            for (int i = str.Length - 1; i >= 0; i--) 
+            for (int i = str.Length - 1; i >= 0; i--)            
             {
                 reversedStr += str[i];
             }
