@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\bin\Debug\MinAndMaxInArray.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\bin\Debug\MinAndMaxInArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\bin\Debug\MinAndMaxInArray.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\obj\Debug\MinAndMaxInArray.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\obj\Debug\MinAndMaxInArray.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\obj\Debug\MinAndMaxInArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\MinAndMaxInArray\obj\Debug\MinAndMaxInArray.pdb
