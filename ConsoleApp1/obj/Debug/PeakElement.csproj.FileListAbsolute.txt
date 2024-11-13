@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\obj\Debug\PeakElement.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\obj\Debug\PeakElement.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

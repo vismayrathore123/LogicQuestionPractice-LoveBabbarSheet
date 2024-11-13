@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\bin\Debug\ArraySearch.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\bin\Debug\ArraySearch.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\bin\Debug\ArraySearch.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\obj\Debug\ArraySearch.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\obj\Debug\ArraySearch.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\obj\Debug\ArraySearch.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySearch\obj\Debug\ArraySearch.pdb
