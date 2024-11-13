@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\bin\Debug\ReverseWordsWithSpecialCharacter.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\bin\Debug\ReverseWordsWithSpecialCharacter.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\bin\Debug\ReverseWordsWithSpecialCharacter.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\obj\Debug\ReverseWordsWithSpecialCharacter.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\obj\Debug\ReverseWordsWithSpecialCharacter.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\obj\Debug\ReverseWordsWithSpecialCharacter.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseWordsWithSpecialCharacter\obj\Debug\ReverseWordsWithSpecialCharacter.pdb
