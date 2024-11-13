@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\bin\Debug\ValueEqualToIndexValue.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\bin\Debug\ValueEqualToIndexValue.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\bin\Debug\ValueEqualToIndexValue.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\obj\Debug\ValueEqualToIndexValue.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\obj\Debug\ValueEqualToIndexValue.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\obj\Debug\ValueEqualToIndexValue.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ValueEqualToIndexValue\obj\Debug\ValueEqualToIndexValue.pdb
