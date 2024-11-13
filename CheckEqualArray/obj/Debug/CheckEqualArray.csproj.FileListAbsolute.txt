@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\bin\Debug\CheckEqualArray.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\bin\Debug\CheckEqualArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\bin\Debug\CheckEqualArray.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\obj\Debug\CheckEqualArray.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\obj\Debug\CheckEqualArray.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\obj\Debug\CheckEqualArray.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEqualArray\obj\Debug\CheckEqualArray.pdb

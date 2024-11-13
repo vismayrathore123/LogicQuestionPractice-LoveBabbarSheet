@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\bin\Debug\ArraySubset.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\bin\Debug\ArraySubset.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\bin\Debug\ArraySubset.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\obj\Debug\ArraySubset.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\obj\Debug\ArraySubset.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\obj\Debug\ArraySubset.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ArraySubset\obj\Debug\ArraySubset.pdb
