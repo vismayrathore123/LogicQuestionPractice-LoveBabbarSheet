@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckEqualArray", "CheckEqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestElementInArray", "LargestElementInArray\LargestElementInArray.csproj", "{22AC9028-680C-44B6-875A-247494C5B497}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArrayInGroup", "ReverseArrayInGroup\ReverseArrayInGroup.csproj", "{49CC91FB-3414-4BD5-AFF8-D7639678AF58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{22AC9028-680C-44B6-875A-247494C5B497}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22AC9028-680C-44B6-875A-247494C5B497}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22AC9028-680C-44B6-875A-247494C5B497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49CC91FB-3414-4BD5-AFF8-D7639678AF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CC91FB-3414-4BD5-AFF8-D7639678AF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CC91FB-3414-4BD5-AFF8-D7639678AF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CC91FB-3414-4BD5-AFF8-D7639678AF58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -208,6 +214,7 @@ Global
 		{7705F67B-8F05-4C09-B1E9-23735532F39A} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 		{E9466AEE-527A-4896-97A3-C7D4ECBAF41E} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 		{22AC9028-680C-44B6-875A-247494C5B497} = {CA162D84-13B0-405D-9DB0-C109594D6923}
+		{49CC91FB-3414-4BD5-AFF8-D7639678AF58} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}
