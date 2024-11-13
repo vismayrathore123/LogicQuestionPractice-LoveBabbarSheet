@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfTheStackIsFull", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWordsWithSpecialCharacter", "ReverseWordsWithSpecialCharacter\ReverseWordsWithSpecialCharacter.csproj", "{845E7AC9-70AB-45E9-9FE3-641D5F55203A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringWithoutExtraSpace", "ReverseStringWithoutExtraSpace\ReverseStringWithoutExtraSpace.csproj", "{21B6A384-E31F-44CB-B095-0F738411D89D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{845E7AC9-70AB-45E9-9FE3-641D5F55203A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{845E7AC9-70AB-45E9-9FE3-641D5F55203A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{845E7AC9-70AB-45E9-9FE3-641D5F55203A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21B6A384-E31F-44CB-B095-0F738411D89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21B6A384-E31F-44CB-B095-0F738411D89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21B6A384-E31F-44CB-B095-0F738411D89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21B6A384-E31F-44CB-B095-0F738411D89D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -166,6 +172,7 @@ Global
 		{2ED27D99-9F7B-4E4C-ABDD-6A4810679ADB} = {A483456E-5AB9-4935-A7E4-61261A7A5DAC}
 		{3D2AB026-A858-4FCD-86AF-6B38392DFDCB} = {A483456E-5AB9-4935-A7E4-61261A7A5DAC}
 		{845E7AC9-70AB-45E9-9FE3-641D5F55203A} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
+		{21B6A384-E31F-44CB-B095-0F738411D89D} = {A9DF8CBA-0A72-4FFC-8F97-C4A10839A76C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

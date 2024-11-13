@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{21B6A384-E31F-44CB-B095-0F738411D89D}|ReverseStringWithoutExtraSpace\\ReverseStringWithoutExtraSpace.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\reversestringwithoutextraspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B6A384-E31F-44CB-B095-0F738411D89D}|ReverseStringWithoutExtraSpace\\ReverseStringWithoutExtraSpace.csproj|solutionrelative:reversestringwithoutextraspace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{845E7AC9-70AB-45E9-9FE3-641D5F55203A}|ReverseWordsWithSpecialCharacter\\ReverseWordsWithSpecialCharacter.csproj|c:\\users\\system solution\\source\\repos\\lovebabbarsheet\\reversewordswithspecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{845E7AC9-70AB-45E9-9FE3-641D5F55203A}|ReverseWordsWithSpecialCharacter\\ReverseWordsWithSpecialCharacter.csproj|solutionrelative:reversewordswithspecialcharacter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -111,18 +115,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseStringWithoutExtraSpace\\Program.cs",
+              "RelativeDocumentMoniker": "ReverseStringWithoutExtraSpace\\Program.cs",
+              "ToolTip": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseStringWithoutExtraSpace\\Program.cs",
+              "RelativeToolTip": "ReverseStringWithoutExtraSpace\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T08:26:12.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseWordsWithSpecialCharacter\\Program.cs",
               "RelativeDocumentMoniker": "ReverseWordsWithSpecialCharacter\\Program.cs",
               "ToolTip": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseWordsWithSpecialCharacter\\Program.cs",
               "RelativeToolTip": "ReverseWordsWithSpecialCharacter\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAABsAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T06:22:11.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIdTheStackIsFull\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\vansh\\Desktop\\vismay\\LogicQuestionPractice-LoveBabbarSheet\\CheckIdTheStackIsFull\\Program.cs",
@@ -133,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Question-1\\Program.cs",
               "RelativeDocumentMoniker": "Question-1\\Program.cs",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\CheckIfAgivenStackIsempty\\Program.cs",
               "RelativeDocumentMoniker": "CheckIfAgivenStackIsempty\\Program.cs",
@@ -152,12 +169,11 @@
               "RelativeToolTip": "CheckIfAgivenStackIsempty\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:48:53.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T09:48:53.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Push5integersontoastackandthenpopthemonebyone\\Program.cs",
               "RelativeDocumentMoniker": "Push5integersontoastackandthenpopthemonebyone\\Program.cs",
@@ -169,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ImplementingStackUsingLinkedList\\Program.cs",
               "RelativeDocumentMoniker": "ImplementingStackUsingLinkedList\\Program.cs",
@@ -181,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ImplementAnArrayUsingLinkedList\\Program.cs",
               "RelativeDocumentMoniker": "ImplementAnArrayUsingLinkedList\\Program.cs",
@@ -193,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\CheckIfTwoStringAreAnagram\\Program.cs",
               "RelativeDocumentMoniker": "CheckIfTwoStringAreAnagram\\Program.cs",
@@ -205,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\FindLongestPalindromicSubstring\\Program.cs",
               "RelativeDocumentMoniker": "FindLongestPalindromicSubstring\\Program.cs",
@@ -217,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\RemoveAllDuplicateAndReverse\\Program.cs",
               "RelativeDocumentMoniker": "RemoveAllDuplicateAndReverse\\Program.cs",
@@ -229,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseTheOrderOfWordsInSentence\\Program.cs",
               "RelativeDocumentMoniker": "ReverseTheOrderOfWordsInSentence\\Program.cs",
@@ -241,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseTheString\\Program.cs",
               "RelativeDocumentMoniker": "ReverseTheString\\Program.cs",
@@ -253,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseOnlyAPartOfString\\Program.cs",
               "RelativeDocumentMoniker": "ReverseOnlyAPartOfString\\Program.cs",
@@ -265,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\CheckIfStringIsPalindromeOrNot\\Program.cs",
               "RelativeDocumentMoniker": "CheckIfStringIsPalindromeOrNot\\Program.cs",
@@ -277,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseEachWordInSentence\\Program.cs",
               "RelativeDocumentMoniker": "ReverseEachWordInSentence\\Program.cs",
@@ -289,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\ReverseTheString\\Program.cs",
               "RelativeDocumentMoniker": "ReverseTheString\\Program.cs",
@@ -301,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\RotateArrayByOne\\Program.cs",
               "RelativeDocumentMoniker": "RotateArrayByOne\\Program.cs",
@@ -313,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\UnionOfTwoArraysWithDuplicateElement\\Program.cs",
               "RelativeDocumentMoniker": "UnionOfTwoArraysWithDuplicateElement\\Program.cs",
@@ -325,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\MoveAllNegativeElementToOneSideOfArray\\Program.cs",
               "RelativeDocumentMoniker": "MoveAllNegativeElementToOneSideOfArray\\Program.cs",
@@ -337,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Sort_0s\u00261s\u00262s\\Program.cs",
               "RelativeDocumentMoniker": "Sort_0s\u00261s\u00262s\\Program.cs",
@@ -349,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\Kth smallest\\Program.cs",
               "RelativeDocumentMoniker": "Kth smallest\\Program.cs",
@@ -361,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\system solution\\source\\repos\\LoveBabbarSheet\\MaximumAndMinimum\\Program.cs",
               "RelativeDocumentMoniker": "MaximumAndMinimum\\Program.cs",

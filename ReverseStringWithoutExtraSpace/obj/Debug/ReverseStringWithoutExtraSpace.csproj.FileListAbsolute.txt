@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\bin\Debug\ReverseStringWithoutExtraSpace.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\bin\Debug\ReverseStringWithoutExtraSpace.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\bin\Debug\ReverseStringWithoutExtraSpace.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\obj\Debug\ReverseStringWithoutExtraSpace.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\obj\Debug\ReverseStringWithoutExtraSpace.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\obj\Debug\ReverseStringWithoutExtraSpace.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\ReverseStringWithoutExtraSpace\obj\Debug\ReverseStringWithoutExtraSpace.pdb
