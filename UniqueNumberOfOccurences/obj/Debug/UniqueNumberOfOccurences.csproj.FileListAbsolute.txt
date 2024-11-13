@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\bin\Debug\UniqueNumberOfOccurences.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\bin\Debug\UniqueNumberOfOccurences.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\bin\Debug\UniqueNumberOfOccurences.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\obj\Debug\UniqueNumberOfOccurences.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\obj\Debug\UniqueNumberOfOccurences.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\obj\Debug\UniqueNumberOfOccurences.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\UniqueNumberOfOccurences\obj\Debug\UniqueNumberOfOccurences.pdb
