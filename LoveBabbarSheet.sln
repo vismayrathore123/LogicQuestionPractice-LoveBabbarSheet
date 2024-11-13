@@ -73,6 +73,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dictionary", "Dictionary", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueNumberOfOccurences", "UniqueNumberOfOccurences\UniqueNumberOfOccurences.csproj", "{31A55C15-138E-4973-BFD5-81CE76A73A65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyGame", "FrequencyGame\FrequencyGame.csproj", "{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -203,6 +205,10 @@ Global
 		{31A55C15-138E-4973-BFD5-81CE76A73A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A55C15-138E-4973-BFD5-81CE76A73A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A55C15-138E-4973-BFD5-81CE76A73A65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -238,6 +244,7 @@ Global
 		{E5ECD0F2-CBB1-40FF-BF78-862D90E8B19A} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 		{E792B544-55A8-4A11-A1CA-3D8085F446CE} = {CA162D84-13B0-405D-9DB0-C109594D6923}
 		{31A55C15-138E-4973-BFD5-81CE76A73A65} = {0BF810A1-8AAD-4C7E-8CEC-EF60C8952A0A}
+		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D} = {0BF810A1-8AAD-4C7E-8CEC-EF60C8952A0A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

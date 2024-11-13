@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\bin\Debug\FrequencyGame.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\bin\Debug\FrequencyGame.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\bin\Debug\FrequencyGame.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\obj\Debug\FrequencyGame.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\obj\Debug\FrequencyGame.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\obj\Debug\FrequencyGame.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\FrequencyGame\obj\Debug\FrequencyGame.pdb
