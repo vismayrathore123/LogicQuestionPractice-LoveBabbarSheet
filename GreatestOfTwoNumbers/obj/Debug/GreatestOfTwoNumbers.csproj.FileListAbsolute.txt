@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\bin\Debug\GreatestOfTwoNumbers.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\bin\Debug\GreatestOfTwoNumbers.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\bin\Debug\GreatestOfTwoNumbers.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\obj\Debug\GreatestOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\obj\Debug\GreatestOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\obj\Debug\GreatestOfTwoNumbers.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\GreatestOfTwoNumbers\obj\Debug\GreatestOfTwoNumbers.pdb
