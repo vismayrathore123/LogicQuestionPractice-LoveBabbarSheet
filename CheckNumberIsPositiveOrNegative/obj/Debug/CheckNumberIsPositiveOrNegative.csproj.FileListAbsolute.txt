@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\bin\Debug\CheckNumberIsPositiveOrNegative.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\bin\Debug\CheckNumberIsPositiveOrNegative.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\bin\Debug\CheckNumberIsPositiveOrNegative.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\obj\Debug\CheckNumberIsPositiveOrNegative.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\obj\Debug\CheckNumberIsPositiveOrNegative.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\obj\Debug\CheckNumberIsPositiveOrNegative.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckNumberIsPositiveOrNegative\obj\Debug\CheckNumberIsPositiveOrNegative.pdb
