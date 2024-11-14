@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\obj\Debug\SumOfFirstNNaturalNumber.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\obj\Debug\SumOfFirstNNaturalNumber.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\bin\Debug\SumOfFirstNNaturalNumber.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\bin\Debug\SumOfFirstNNaturalNumber.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\bin\Debug\SumOfFirstNNaturalNumber.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\obj\Debug\SumOfFirstNNaturalNumber.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfFirstNNaturalNumber\obj\Debug\SumOfFirstNNaturalNumber.pdb
