@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\bin\Debug\SumOfNumberInGivenRange.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\bin\Debug\SumOfNumberInGivenRange.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\bin\Debug\SumOfNumberInGivenRange.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\obj\Debug\SumOfNumberInGivenRange.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\obj\Debug\SumOfNumberInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\obj\Debug\SumOfNumberInGivenRange.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\SumOfNumberInGivenRange\obj\Debug\SumOfNumberInGivenRange.pdb
