@@ -14,7 +14,7 @@
 //Example 2:
 
 //Input:
-//N = 10
+//N = 10as
 //arr = [2, 2, 5, 10, 1, 2, 10, 5, 10, 2]
 //Output:
 //true
