@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\bin\Debug\CheckEvenOrOdd.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\CheckEvenOrOdd\obj\Debug\CheckEvenOrOdd.pdb

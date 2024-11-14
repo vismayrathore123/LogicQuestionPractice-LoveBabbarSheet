@@ -81,6 +81,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GettingStarted", "GettingSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckNumberIsPositiveOrNegative", "CheckNumberIsPositiveOrNegative\CheckNumberIsPositiveOrNegative.csproj", "{2D6034B3-3F9D-4A2B-9159-B1D0E904DFB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckEvenOrOdd", "CheckEvenOrOdd\CheckEvenOrOdd.csproj", "{950D802D-B732-4644-96E2-27741D49E46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +221,10 @@ Global
 		{2D6034B3-3F9D-4A2B-9159-B1D0E904DFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D6034B3-3F9D-4A2B-9159-B1D0E904DFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D6034B3-3F9D-4A2B-9159-B1D0E904DFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950D802D-B732-4644-96E2-27741D49E46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950D802D-B732-4644-96E2-27741D49E46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950D802D-B732-4644-96E2-27741D49E46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950D802D-B732-4644-96E2-27741D49E46C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -258,6 +264,7 @@ Global
 		{83A5F0A7-A79A-496B-8EC1-A6D3037A3B1D} = {0BF810A1-8AAD-4C7E-8CEC-EF60C8952A0A}
 		{43C62AAF-43C1-4EC9-909A-BD521DD9DFAA} = {2B82749A-E5CE-4E72-B102-665BFCBB7640}
 		{2D6034B3-3F9D-4A2B-9159-B1D0E904DFB4} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{950D802D-B732-4644-96E2-27741D49E46C} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}
