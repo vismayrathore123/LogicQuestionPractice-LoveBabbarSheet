@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNumberInGivenRange", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestOfTwoNumbers", "GreatestOfTwoNumbers\GreatestOfTwoNumbers.csproj", "{0465B964-6F6C-4202-8788-DB88969E9A45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestOfThreeNumbers", "LargestOfThreeNumbers\LargestOfThreeNumbers.csproj", "{2E455BC4-943A-40AA-AC68-7835F4C90072}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{0465B964-6F6C-4202-8788-DB88969E9A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0465B964-6F6C-4202-8788-DB88969E9A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0465B964-6F6C-4202-8788-DB88969E9A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E455BC4-943A-40AA-AC68-7835F4C90072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E455BC4-943A-40AA-AC68-7835F4C90072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E455BC4-943A-40AA-AC68-7835F4C90072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E455BC4-943A-40AA-AC68-7835F4C90072}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -286,6 +292,7 @@ Global
 		{7A6D2A0B-5A3C-4DF3-8A31-58B5E869C938} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{F5E0DD56-B1A3-42E2-9C2E-962CC1BA4B6A} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{0465B964-6F6C-4202-8788-DB88969E9A45} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{2E455BC4-943A-40AA-AC68-7835F4C90072} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

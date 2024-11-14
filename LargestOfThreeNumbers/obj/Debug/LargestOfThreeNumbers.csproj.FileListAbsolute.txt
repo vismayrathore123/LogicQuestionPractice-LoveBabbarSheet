@@ -1,0 +1,7 @@
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\bin\Debug\LargestOfThreeNumbers.exe.config
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\bin\Debug\LargestOfThreeNumbers.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\bin\Debug\LargestOfThreeNumbers.pdb
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\obj\Debug\LargestOfThreeNumbers.csproj.AssemblyReference.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\obj\Debug\LargestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\obj\Debug\LargestOfThreeNumbers.exe
+C:\Users\system solution\source\repos\LoveBabbarSheet\LargestOfThreeNumbers\obj\Debug\LargestOfThreeNumbers.pdb
