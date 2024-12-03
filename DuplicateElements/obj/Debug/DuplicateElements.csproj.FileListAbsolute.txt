@@ -1,0 +1,7 @@
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\bin\Debug\DuplicateElements.exe.config
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\bin\Debug\DuplicateElements.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\bin\Debug\DuplicateElements.pdb
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\obj\Debug\DuplicateElements.csproj.AssemblyReference.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\obj\Debug\DuplicateElements.csproj.CoreCompileInputs.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\obj\Debug\DuplicateElements.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\DuplicateElements\obj\Debug\DuplicateElements.pdb
