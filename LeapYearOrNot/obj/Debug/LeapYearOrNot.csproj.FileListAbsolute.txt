@@ -1,0 +1,7 @@
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\bin\Debug\LeapYearOrNot.exe.config
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\bin\Debug\LeapYearOrNot.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\bin\Debug\LeapYearOrNot.pdb
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\obj\Debug\LeapYearOrNot.csproj.AssemblyReference.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\obj\Debug\LeapYearOrNot.csproj.CoreCompileInputs.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\obj\Debug\LeapYearOrNot.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\LeapYearOrNot\obj\Debug\LeapYearOrNot.pdb

@@ -1,0 +1,7 @@
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\MANNAT\Desktop\DSA\LogicQuestionPractice-LoveBabbarSheet\PrimeNumber\obj\Debug\PrimeNumber.pdb
