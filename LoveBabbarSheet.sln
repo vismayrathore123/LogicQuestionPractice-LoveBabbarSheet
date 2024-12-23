@@ -91,7 +91,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreatestOfTwoNumbers", "Gre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestOfThreeNumbers", "LargestOfThreeNumbers\LargestOfThreeNumbers.csproj", "{2E455BC4-943A-40AA-AC68-7835F4C90072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondLargestELement", "SecondLargestELement\SecondLargestELement.csproj", "{1D1B8C04-079E-4313-9989-0B369B279B91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondLargestELement", "SecondLargestELement\SecondLargestELement.csproj", "{1D1B8C04-079E-4313-9989-0B369B279B91}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HashSet", "HashSet", "{9AB68420-5BD9-42A1-ADAC-BB5B45425EA0}"
 EndProject
@@ -102,6 +102,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYearOrNot", "LeapYearOrNot\LeapYearOrNot.csproj", "{A611BF88-6FEF-4AD3-8666-31C2C991E979}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\PrimeNumber.csproj", "{9744D12A-8721-4F18-BAC6-B935A3E3E061}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -281,6 +283,10 @@ Global
 		{9744D12A-8721-4F18-BAC6-B935A3E3E061}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9744D12A-8721-4F18-BAC6-B935A3E3E061}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9744D12A-8721-4F18-BAC6-B935A3E3E061}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +336,7 @@ Global
 		{AC79E49B-1DF1-4E4B-8087-7D411C0B58BB} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{A611BF88-6FEF-4AD3-8666-31C2C991E979} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{9744D12A-8721-4F18-BAC6-B935A3E3E061} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

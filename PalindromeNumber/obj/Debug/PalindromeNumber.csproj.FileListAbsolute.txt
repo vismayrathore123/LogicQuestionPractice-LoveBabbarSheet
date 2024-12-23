@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\bin\Debug\PalindromeNumber.exe.config
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\bin\Debug\PalindromeNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\bin\Debug\PalindromeNumber.pdb
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\obj\Debug\PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\obj\Debug\PalindromeNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\PalindromeNumber\obj\Debug\PalindromeNumber.pdb
