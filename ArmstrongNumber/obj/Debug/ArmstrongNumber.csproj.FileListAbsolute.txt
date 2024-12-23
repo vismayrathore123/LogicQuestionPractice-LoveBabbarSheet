@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe.config
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\bin\Debug\ArmstrongNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\bin\Debug\ArmstrongNumber.pdb
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\obj\Debug\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\obj\Debug\ArmstrongNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\ArmstrongNumber\obj\Debug\ArmstrongNumber.pdb
