@@ -105,6 +105,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumber", "PrimeNumber\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{651BD987-3691-473F-9742-714912DE76F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiibonacciSeries", "FiibonacciSeries\FiibonacciSeries.csproj", "{5CF75C7D-EAC9-4741-935B-AD79080FC469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -287,6 +291,14 @@ Global
 		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{651BD987-3691-473F-9742-714912DE76F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651BD987-3691-473F-9742-714912DE76F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651BD987-3691-473F-9742-714912DE76F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{651BD987-3691-473F-9742-714912DE76F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -337,6 +349,8 @@ Global
 		{A611BF88-6FEF-4AD3-8666-31C2C991E979} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{9744D12A-8721-4F18-BAC6-B935A3E3E061} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{651BD987-3691-473F-9742-714912DE76F4} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{5CF75C7D-EAC9-4741-935B-AD79080FC469} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\bin\Debug\FiibonacciSeries.exe.config
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\bin\Debug\FiibonacciSeries.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\bin\Debug\FiibonacciSeries.pdb
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\obj\Debug\FiibonacciSeries.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\obj\Debug\FiibonacciSeries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\obj\Debug\FiibonacciSeries.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FiibonacciSeries\obj\Debug\FiibonacciSeries.pdb
