@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\bin\Debug\FactorialNumber.exe.config
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\bin\Debug\FactorialNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\bin\Debug\FactorialNumber.pdb
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\obj\Debug\FactorialNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\obj\Debug\FactorialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\obj\Debug\FactorialNumber.exe
+C:\Users\Admin\Desktop\dsa\LogicQuestionPractice-LoveBabbarSheet\FactorialNumber\obj\Debug\FactorialNumber.pdb
