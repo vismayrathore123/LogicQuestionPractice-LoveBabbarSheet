@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiibonacciSeries", "Fiibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumberUsingSimpleIteration", "ReverseNumberUsingSimpleIteration\ReverseNumberUsingSimpleIteration.csproj", "{9F139509-53EC-4C75-BB20-F231D4E0EDBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumberUsingStringSlicing", "ReverseNumberUsingStringSlicing\ReverseNumberUsingStringSlicing.csproj", "{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -305,6 +307,10 @@ Global
 		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -358,6 +364,7 @@ Global
 		{651BD987-3691-473F-9742-714912DE76F4} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{5CF75C7D-EAC9-4741-935B-AD79080FC469} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{9F139509-53EC-4C75-BB20-F231D4E0EDBB} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{A9C9B4EE-DA74-4197-A626-3065EF8A2DE7} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}
