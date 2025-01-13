@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "Armstron
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiibonacciSeries", "FiibonacciSeries\FiibonacciSeries.csproj", "{5CF75C7D-EAC9-4741-935B-AD79080FC469}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumberUsingSimpleIteration", "ReverseNumberUsingSimpleIteration\ReverseNumberUsingSimpleIteration.csproj", "{9F139509-53EC-4C75-BB20-F231D4E0EDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -299,6 +301,10 @@ Global
 		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF75C7D-EAC9-4741-935B-AD79080FC469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F139509-53EC-4C75-BB20-F231D4E0EDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -351,6 +357,7 @@ Global
 		{F3EDC6AE-4951-4368-BB4D-972B6F505CB8} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{651BD987-3691-473F-9742-714912DE76F4} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 		{5CF75C7D-EAC9-4741-935B-AD79080FC469} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
+		{9F139509-53EC-4C75-BB20-F231D4E0EDBB} = {43C62AAF-43C1-4EC9-909A-BD521DD9DFAA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2E899A4B-6A5E-4474-A5D8-1D16B8E4E0D3}

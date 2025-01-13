@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecondLargestELement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb4c3b827a6fbc0c8bd09467f3af957d78edfd62")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2d0d8323883342db4ff9d98e034fa43758922530")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecondLargestELement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecondLargestELement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
