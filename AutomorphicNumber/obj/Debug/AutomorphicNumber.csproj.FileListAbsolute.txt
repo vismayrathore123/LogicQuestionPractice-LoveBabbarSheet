@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\bin\Debug\AutomorphicNumber.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\bin\Debug\AutomorphicNumber.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\bin\Debug\AutomorphicNumber.pdb
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\obj\Debug\AutomorphicNumber.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\obj\Debug\AutomorphicNumber.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\obj\Debug\AutomorphicNumber.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\AutomorphicNumber\obj\Debug\AutomorphicNumber.pdb
