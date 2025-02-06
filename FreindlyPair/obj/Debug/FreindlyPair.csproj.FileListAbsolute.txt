@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\bin\Debug\FreindlyPair.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\bin\Debug\FreindlyPair.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\bin\Debug\FreindlyPair.pdb
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\obj\Debug\FreindlyPair.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\obj\Debug\FreindlyPair.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\obj\Debug\FreindlyPair.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\FreindlyPair\obj\Debug\FreindlyPair.pdb
