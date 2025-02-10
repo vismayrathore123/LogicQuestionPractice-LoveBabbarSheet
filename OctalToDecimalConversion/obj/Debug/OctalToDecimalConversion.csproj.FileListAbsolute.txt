@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\obj\Debug\OctalToDecimalConversion.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\obj\Debug\OctalToDecimalConversion.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\bin\Debug\OctalToDecimalConversion.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\bin\Debug\OctalToDecimalConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\bin\Debug\OctalToDecimalConversion.pdb
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\obj\Debug\OctalToDecimalConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\OctalToDecimalConversion\obj\Debug\OctalToDecimalConversion.pdb
