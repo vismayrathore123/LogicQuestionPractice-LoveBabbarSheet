@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\bin\Debug\HexaToDecimalConversion.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\bin\Debug\HexaToDecimalConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\bin\Debug\HexaToDecimalConversion.pdb
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\obj\Debug\HexaToDecimalConversion.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\obj\Debug\HexaToDecimalConversion.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\obj\Debug\HexaToDecimalConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\HexaToDecimalConversion\obj\Debug\HexaToDecimalConversion.pdb
