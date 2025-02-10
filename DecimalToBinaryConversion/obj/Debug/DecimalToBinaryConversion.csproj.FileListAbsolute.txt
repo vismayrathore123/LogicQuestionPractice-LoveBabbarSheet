@@ -1,0 +1,7 @@
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.exe.config
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\bin\Debug\DecimalToBinaryConversion.pdb
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.csproj.AssemblyReference.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.csproj.CoreCompileInputs.cache
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.exe
+C:\Users\visma\OneDrive\Desktop\practice\LogicQuestionPractice-LoveBabbarSheet\DecimalToBinaryConversion\obj\Debug\DecimalToBinaryConversion.pdb
